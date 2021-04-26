@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22c4c5"],{f346:function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("save-page",{attrs:{"is-add":!0}})},c=[],s=a("4668"),u={name:"AddPage",components:{SavePage:s["a"]}},l=u,o=a("2877"),r=Object(o["a"])(l,t,c,!1,null,null,null);n["default"]=r.exports}}]);
